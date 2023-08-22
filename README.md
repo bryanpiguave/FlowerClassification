@@ -2,7 +2,7 @@
 
 # Dataset 
 
-!(dataset)["https://www.kaggle.com/competitions/tpu-getting-started/data"]
+(dataset)[https://www.kaggle.com/competitions/tpu-getting-started/data]
 
 
 # Author 
